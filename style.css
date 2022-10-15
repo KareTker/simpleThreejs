@@ -1,0 +1,27 @@
+canvas {
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+main {
+  position: absolute;
+  color: white;
+}
+.container {
+  margin-bottom: 70px;
+  padding-right: 25px;
+  padding-left: 25px;
+}
+#header {
+  margin-top: 80px;
+}
+#closing {
+  padding: 20px;
+}
+#nav {
+  margin: 20px;
+  padding-right: 25px;
+  padding-left: 25px;
+  border-radius: 10px;
+}
